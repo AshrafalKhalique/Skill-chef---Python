@@ -1,6 +1,6 @@
 # Python Library Classes by SkillChef
 
-This repository contains the official code files, examples, and projects for the **Python Library Classes** instructed by [Your Name] on behalf of **SkillChef**.
+This repository contains the official code files, examples, and projects for the **Python Library Classes** instructed by Ashraf Al-Khalique on behalf of **SkillChef**.
 
 ## 📚 About This Repository
 
